@@ -1,0 +1,119 @@
+*{
+    box-sizing: border-box;
+    font-family:sans-serif;
+    font-style: normal;
+    
+}
+body{
+    background-color: #fff0f3;
+    justify-content: center;
+    align-items: center;
+}
+
+div .resume{
+    height: auto;
+    width: 850px;
+    margin-left: 200px; 
+    background-color: #f8f9fa; 
+}
+
+div .personal-info{
+    display: flex;
+    flex-wrap: wrap;
+    flex-basis: 50%, 50%;
+    background-color:#14213d;
+    height: 220px;
+    margin: 10px 10px 0 10px;  
+}
+img{
+   
+    height: 200px;
+    width: 160px;
+    padding: 40px 10px 10px 40px;
+}
+ div .details{
+    
+    color: white;
+    padding: 40px 0 80px 20px;
+    line-height: 5px;
+}
+ .divider{
+    width: 830px;
+    height: 10px;
+    background-color: #fca311;
+    margin: 0 10px 0 10px;
+}
+ .resume-content{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #f8f9fa;
+    margin: 0px 10px 10px 10px;
+}
+.left{
+    width: 20%;
+    text-align: justify;
+}
+.icon{
+    height: 15px;
+    width: 15px;
+    background-color:#fca311; 
+    position: relative;
+    top: 36px;
+}
+h3{
+    position: relative;
+    left: 20px;
+    font-weight:bold;
+    letter-spacing: -1px;
+}
+.middle{
+    width: 50%;
+    position: relative;
+    top: 18px;
+}
+span{
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+.middle-details{
+    position: relative;
+    line-height: 20px;
+}
+.degree p{
+    position: relative;
+    left: 20px;
+    line-height: 0%;
+    
+}
+.degree-details{
+    position: relative;
+    left: 20px;
+    
+}
+.right{
+    width: 30%;
+    position: relative;
+    top: 5x;
+    left: 80px;
+}
+.skill{
+    position: relative;
+    line-height: 5%;
+}
+
+.skill-type{
+    position: relative;
+    line-height: 15px;
+    
+}
+.skill-level{
+    position: relative;
+    line-height: 2%;
+    font-size: 15px;
+
+}
+ul li{
+    font-size: 15px;
+
+}

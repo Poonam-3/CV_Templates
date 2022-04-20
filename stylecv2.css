@@ -1,0 +1,194 @@
+*{
+    font-family: sans-serif;
+   
+}
+
+
+body{
+    background-color: #4e5d5c;
+}
+.container{
+    margin: 225px;
+    width:800px;
+    height:1000px;
+    border-collapse: collapse;
+}
+.left{
+    width: 250px;
+    background-color: #e5e5e5;
+    padding: 25px;
+}
+
+img{
+    position: relative;
+    left: 35px;
+    bottom: 20px;
+    align-items: center;
+    border-radius: 50%;
+    height: 200px;
+    width: 160px;   
+}
+h1{
+    position: relative;
+    bottom: 25px;
+    text-align: center;
+    font-weight: lighter;
+    
+}
+.header{
+    position: relative;
+    bottom: 10px;
+    height: 30px;
+    width: 230px;
+    background-color: #343a40;
+    text-align: center;
+}
+h3.cert{
+    padding-top: 13px;
+}
+
+h3{
+    font-size: 15px; 
+    letter-spacing: 0;
+    font-weight: lighter;
+    color: white;
+    text-align: justify;
+    padding-top: 6px;
+    padding-left: 5px;
+}
+h2{
+    font-weight: lighter;
+    font-size: 15px;
+}
+
+.profile .unordered-list{
+    position: relative;
+    right: 40px;
+}
+.profile .unordered-list .list-item{
+    position: relative;
+    bottom: 7px;
+    list-style: none;
+    padding-left: 5px;
+    cursor: pointer;
+    margin: 5px 0;
+    
+}
+span .icon{
+    position: relative;
+    display: inline-block;
+    
+    font-size: 18px; 
+}
+.profile .text{
+    position:absolute;
+    left: 30px;
+    align-items: center;
+    font-size: 13px;
+}
+.certifications{
+    line-height: 2px;
+    /* padding-top: 0; */
+
+}
+.certifications .date{
+    position: relative;
+    bottom: 38px;
+    left: 150px; 
+    font-size: 14px;
+}
+.type p{
+    position: relative;
+    top: 1px;
+}
+
+.lang{
+    
+    height: 50px;
+    width: 50px;
+}
+
+.skill-table .col-2{
+    position: relative;
+    left: 50px;
+}
+
+.right{
+    width: 550px;
+    background-color: #ffffff;
+    padding: 15px;
+}
+.header3{
+    position: relative;
+    bottom: 10px;
+    height: 30px;
+    width: 500px;
+    background-color: #343a40;
+    text-align: center;
+}
+.experience h4{
+    position: relative;
+    bottom: 20px;
+}
+p{
+    position: relative;
+    bottom: 20px;
+    font-size: 14px;
+}
+.date2{
+    position: relative;
+    left: 360px ;
+    bottom: 85px;
+    font-size: 14px;
+    
+}
+.details ul{
+    position: relative;
+}
+.details ul li{
+    position: relative;
+    bottom: 60px;
+    font-size: 14px;
+}
+.edu-header{
+    position: relative;
+    bottom: 15px;
+}
+.edu-date{
+    position: relative;
+    left: 360px;
+    bottom:75px;
+    font-size: 14px;
+}
+.details .edu-list .edu-details{
+    position: relative;
+    bottom: 75px;
+}
+.header4{
+    position: relative;
+    bottom: 10px;
+    height: 30px;
+    width: 500px;
+    background-color: #343a40;
+}
+.obj-details{
+    position: relative;
+    bottom: 10px;
+
+}
+ .proj-header{
+    position: relative;
+    bottom: 5px;
+    
+}
+.proj-details .proj-list .proj-li{
+    position: relative;
+    font-size: 14px;
+}
+.header5{
+    position: relative;
+    bottom: 20px;
+    height: 30px;
+    width: 500px;
+    background-color: #343a40;
+}
